@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Morri
+- 👀 I’m interested in code
+- 🌱 I’m currently learning python, c++
+- 💞️ I’m looking to collaborate on @penggrin12
+- 📫 How to reach me: morri_bio.t.me
