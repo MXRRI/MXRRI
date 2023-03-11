@@ -1,9 +1,9 @@
 ![banner](https://github.com/MXRRI/MXRRI/raw/main/me.png)
 
 ## Projects 🌱
-- [Netfoll UserBot (based on Hikka)]([link to project](https://github.com/MXRRI/Netfoll)) - UserBot for Telegram
-- [My Modules]([[link to project]()](https://github.com/MXRRI/Modules)) - Modules for UserBot's
-- [HikkaWE]([link to project](https://github.com/MXRRI/HikkaWE)) - Hikka WE FORK for Run on Windows
+- Netfoll UserBot (based on Hikka) - UserBot for Telegram
+- My Modules - Modules for UserBot's
+- HikkaWE - Hikka WE FORK for Run on Windows
 
 ## My GitHub Stats 📊
 
