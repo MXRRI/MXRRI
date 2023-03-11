@@ -1,4 +1,4 @@
-# Hi there, I'm Morri 👋
+![banner]([https://user-images.githubusercontent.com/36935426/169670902-57c35471-69fd-4249-b8e1-c860473a81e1.png](https://github.com/MXRRI/MXRRI/raw/main/me.png))
 
 ## Projects 🌱
 - [Netfoll UserBot (based on Hikka)]([link to project](https://github.com/MXRRI/Netfoll)) - UserBot for Telegram
