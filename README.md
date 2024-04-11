@@ -5,4 +5,4 @@
 - My Modules - Modules for UserBot's
 - HikkaWE - Hikka WE FORK for Run on Windows
 
-- [url=https://mynickname.com/id568611][img]https://mynickname.com/forumt4/Morri.gif[/img][/url]
+<a href="https://mynickname.com/id568611"><img src="https://mynickname.com/img.php?nick=Morri&sert=2&text=t4" alt="Nickname Morri is registered!" border="0" /></a>
